@@ -4,7 +4,10 @@ I decided to use Keras with Tensorflow as backend. I implemented the CycleGAN us
 I used a patch based discriminator with 8x8 window, using self-attention for every pooling step. I used the resnet generator with attention at every pooling step and after the bottleneck.
 
 ## Results ##
-Source image is the right one, tranlated on the left.
+
+### Source image is the right one, tranlated on the left. ### 
+
+
 ![to anime](to_anime_results.png)
 ![to human](to_human_results.png)
 

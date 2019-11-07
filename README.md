@@ -16,8 +16,8 @@ I really think I achieved a really good result on this first try. The generator 
 
 ## Future Work ##
 
-- [] Try Spectral normalization.
-- [] Try BatchNorm/InstanceNorm.
-- [] Find optimal LR.
-- [] Try different regularizators on the generator loss.
-- [] Try a Discriminator Ensemble.
+- [ ] Try Spectral normalization.
+- [ ] Try BatchNorm/InstanceNorm.
+- [ ] Find optimal LR.
+- [ ] Try different regularizators on the generator loss.
+- [ ] Try a Discriminator Ensemble.

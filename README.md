@@ -1,6 +1,6 @@
 # Anime CycleGAN #
 ## Implementation ##
-I decided to use Keras with Tensorflow as backend. I implemented the CycleGAN using the same indications provided by the author. I did not use in this iteration the data pool suggested by the author and replaced the mean squared error by crossentropy los (original GAN formulation).
+I decided to use Keras with Tensorflow as backend. I implemented the CycleGAN using the same indications provided by the author. I did not use in this iteration the data pool suggested by the author and replaced the mean squared error by crossentropy loss (original GAN formulation).
 I used a patch based discriminator with 8x8 window, using self-attention for every pooling step. I used the resnet generator with attention at every pooling step and after the bottleneck.
 
 ## Results ##
